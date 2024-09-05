@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/swan/static/css/main.374848bb.css",
-    "main.js": "/swan/static/js/main.6980a6bf.js",
+    "main.js": "/swan/static/js/main.8e4d5e19.js",
     "index.html": "/swan/index.html",
     "main.374848bb.css.map": "/swan/static/css/main.374848bb.css.map",
-    "main.6980a6bf.js.map": "/swan/static/js/main.6980a6bf.js.map"
+    "main.8e4d5e19.js.map": "/swan/static/js/main.8e4d5e19.js.map"
   },
   "entrypoints": [
     "static/css/main.374848bb.css",
-    "static/js/main.6980a6bf.js"
+    "static/js/main.8e4d5e19.js"
   ]
 }
